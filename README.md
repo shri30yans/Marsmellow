@@ -2,11 +2,11 @@
 Have you ever looked into the vast open sky and wondered whether an Astronaut was there at that very moment in Space looking right at you? Or even wondered when the ISS (International Space Station) was directly over your head? Or what time was it on Mars?  Well...I have and in case you are anything like me here's something to keep you inspired during the quarantine!.  "Marsmellow" (Get it?) is a project which answers all these questions and more. The onboard Raspberry Pi calculates the exact MTC (Mars Coordinated Time), finds which Sol (Martian Days) is it and even what Season is it on Mars. It even finds the exact number of people in space at that very moment.  What's more is that a different colour LED lights up each time an Astronaut leaves Space, enters Space or whenever the ISS is over a specific location.
 <p>
 [<img align="left" alt="Instructables" src="https://github.com/shri30yans/Marsmellow/blob/main/picture.jpg" />](https://www.instructables.com/Space-Box-A-Box-Which-Lights-Up-When-Events-Happen/)
+</p>
 [Instructables Link](https://www.instructables.com/Space-Box-A-Box-Which-Lights-Up-When-Events-Happen/)  
 [Project in Working](https://www.youtube.com/watch?v=t2J1iXw8zzw)  
 [Video Tutorials for Software Setup](https://www.youtube.com/watch?v=uT03RmQY0uI&list=PLbaXg7dNOnqRj3woGGSodTl9zmwAhDK6o)  
-<br>
- </p>
+<br>  
 
 **Supplies:**
   **Hardware:**
