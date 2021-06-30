@@ -10,21 +10,21 @@ Have you ever looked into the vast open sky and wondered whether an Astronaut wa
 
 **Supplies:**
   **Hardware:**
-    -Any Raspberry Pi with onboard WiFi Cost : $40 - 50 (USD)  
-    -A NodeMCU (ESP8266). Cost : $6 (USD)  
-    -A 128 x 64 OLED display. (Something like this) Cost :$5 - 15 (USD)
-    -A couple of LEDs. Cost: $1 (USD)
-    -Some Jumper wires (Male-Female, Male-Male and Female-Female) Cost: $3 (USD)
+    - Any Raspberry Pi with onboard WiFi Cost : $40 - 50 (USD)  
+    - A NodeMCU (ESP8266). Cost : $6 (USD)  
+    - A 128 x 64 OLED display. (Something like this) Cost :$5 - 15 (USD)  
+    - A couple of LEDs. Cost: $1 (USD)  
+    - Some Jumper wires (Male-Female, Male-Male and Female-Female) Cost: $3 (USD)  
 
-  **Software requirements:**
-    -Arduino IDE
-    -Python 3 IDLE on RPi
-    -Adafruit account
-    -IFTTT account
+  **Software requirements:**  
+    - Arduino IDE  
+    - Python 3 IDLE on RPi  
+    - Adafruit account  
+    -IFTTT account  
 
-  **Others:**
-    -WiFi connection
-    -Cardboard
-    -White Glue or Epoxy glue
-    -Sharp pair of Scissors
-    -Paint
+  **Others:**  
+    - WiFi connection  
+    - Cardboard  
+    - White Glue or Epoxy glue  
+    - Sharp pair of Scissors  
+    - Paint  
