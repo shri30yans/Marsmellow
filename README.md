@@ -20,7 +20,7 @@ Have you ever looked into the vast open sky and wondered whether an Astronaut wa
     - Arduino IDE  
     - Python 3 IDLE on RPi  
     - Adafruit account  
-    -IFTTT account  
+    - IFTTT account  
 
   **Others:**  
     - WiFi connection  
